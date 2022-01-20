@@ -1,0 +1,42 @@
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.exe
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.deps.json
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.runtimeconfig.json
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.runtimeconfig.dev.json
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.dll
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.pdb
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.csproj.AssemblyReference.cache
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.AssemblyInfoInputs.cache
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.AssemblyInfo.cs
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.dll
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.pdb
+C:\Users\LuisEladio\source\repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.genruntimeconfig.cache
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.exe
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.deps.json
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.runtimeconfig.json
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.runtimeconfig.dev.json
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.dll
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.pdb
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.csproj.AssemblyReference.cache
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.AssemblyInfoInputs.cache
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.AssemblyInfo.cs
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.csproj.CoreCompileInputs.cache
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.dll
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.pdb
+I:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.genruntimeconfig.cache
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.exe
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.deps.json
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.runtimeconfig.json
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.runtimeconfig.dev.json
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.dll
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.pdb
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.csproj.AssemblyReference.cache
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.AssemblyInfoInputs.cache
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.AssemblyInfo.cs
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.csproj.CoreCompileInputs.cache
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.dll
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.pdb
+F:\Cuaderno\Programación\De Arrays en Adelante\1. Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.genruntimeconfig.cache
