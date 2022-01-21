@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>    
+    <title>Ejercicios JS</title>
+</head>
+<body>
+    <form>
+    <fieldset>
+        <h2>Ejercicio 1</h2>
+        <h3>Multiplicar dos numeros</h3>
+        <button type="button" onclick="MyFunction1()">Comenzar</button>
+        <p></p>
+
+        <h2>Ejercicio 2</h2>
+        <h3>Añadir texto a un div</h3>
+        <button type="button" onclick="MyFunction2()">Añadir texto</button>
+        <input type="text" id="texto"/>
+        <div id="textotal"></div>
+        <p></p>
+
+        <h2>Ejercicio 3</h2>
+        <h3>Decir que numero es mayor</h3>
+        <button type="button" onclick="MyFunction3()">¿Cuál es mayor?</button>
+        <input type="number" id="a"/>
+        <input type="number" id="b"/>
+        <div id="resultado"></div>
+
+        <h2>Ejercicio 4</h2>
+        <h3>Insertar nombres en una lista</h3>
+        <button type="button" onclick="MyFunction4()">Insertar en la lista</button>
+        <input type="text" name="nombre" id="nombre"></label>
+        <ul id="listanombres"></ul> 
+        
+        <h2>Ejercicio 5</h2>
+        <h3>Decir que radiobutton se ha seleccionado</h3>
+        <!-- <button type="button" onclick="MyFunction5()">Ejercicio5</button> -->
+        <p></p>
+        <ul>
+        <li><input type="radio" name="opciones" id="1" value="1"  onclick="MyFunction5()">Opcion1</li>
+        <li><input type="radio" name="opciones" id="2" value="2"  onclick="MyFunction5()">Opcion2</li>
+        <li><input type="radio" name="opciones" id="3" value="3"  onclick="MyFunction5()">Opcion3</li>
+        </ul>
+
+        <h2>Ejercicio 6</h2>
+        <h3>Sumar y restar si el primero es mayor que el segundo y multiplicar y dividir en caso contrario</h3>
+        <button type="button" onclick="MyFunction6()">Calcular</button>
+        <input type="number" id="a2"/>
+        <input type="number" id="b2"/>
+
+        <h2>Ejercicio 7</h2>
+        <h3>Calcular nota media y mensaje en funcion del resultado</h3>
+        <button type="button" onclick="MyFunction7()">Resultado</button>
+        <input type="number" id="nota1"/>
+        <input type="number" id="nota2"/>
+        <input type="number" id="nota3"/>
+
+        <h2>Ejercicio 8</h2>
+        <h3>Decir que numero es mayor de entre 3</h3>
+        <button type="button" onclick="MyFunction8()">¿Cuál es mayor?</button>
+        <input type="number" id="numero1"/>
+        <input type="number" id="numero2"/>
+        <input type="number" id="numero3"/>
+
+        <h2>Ejercicio 9</h2>
+        <h3>Decir si un numero es positivo negativo o 0</h3>
+        <button type="button" onclick="MyFunction9()">Iniciar</button>
+        <input type="number" id="ejercicio9"/>
+
+        <h2>Ejercicio 10</h2>
+        <h3>Pedir numero de 1 o dos cifras y decir cuantas tiene</h3>
+        <button type="button" onclick="MyFunction10()">Iniciar</button>
+        <input type="number" id="ejercicio10"/>
+
+        <h2>Ejercicio 11</h2>
+        <h3>Pedir numero de 1 , 2 o 3 cifras y decir cuantas tiene</h3>
+        <button type="button" onclick="MyFunction11()">Iniciar</button>
+        <input type="number" id="ejercicio11"/>
+
+        <h2>Ejercicio 12</h2>
+        <h3>Introducir una fecha y decir si es navidad</h3>
+        <button type="button" onclick="MyFunction12()">Iniciar</button>
+        <input type="number" id="day" placeholder="Introduce el dia"/>
+        <input type="number" id="month" placeholder="Introduce el mes"/>
+        <input type="number" id="year" placeholder="Introduce el año"/>
+
+        <h2>Ejercicio 13</h2>
+        <h3>Introducir tres numeros y si son iguales sumar 2 y multiplicar por el tercero</h3>
+        <button type="button" onclick="MyFunction13()">Iniciar</button>
+        <input type="number" id="ejercicio13.1"/>
+        <input type="number" id="ejercicio13.2"/>
+        <input type="number" id="ejercicio13.3"/>
+
+        <h2>Ejercicio 14</h2>
+        <h3>Pedir nombre, preguntas y respuestas correctas y calcular porcentaje y nivel</h3>
+        <button type="button" onclick="MyFunction14()">Iniciar</button>
+        <input type="text" id="name"/>
+        <input type="number" id="total" placeholder="Total de preguntas"/>
+        <input type="number" id="correctas" placeholder="Total de correctas"/>        
+
+        <h2>Ejercicio 15</h2>
+        <h3>Pedir sueldo y antiguedad y calcular nuevo sueldo</h3>
+        <button type="button" onclick="MyFunction15()">Iniciar</button>
+        <input type="number" id="sueldo" placeholder="Sueldo"/>
+        <input type="number" id="antiguedad" placeholder="Antiguedad"/>
+
+        <h2>Ejercicio 16</h2>
+        <h3>Pedir marca y modelo de coche y pedir descuento</h3>
+        <p>Marcas:</p>
+        <ul>
+            <li>
+                Renault
+            </li>
+            <li>
+                Ford
+            </li>
+            <li>
+                Opel
+            </li>
+        </ul>
+        <p>Modelos</p>
+        <ul>
+            <li>Focus</li>
+            <li>Fiesta</li>
+        </ul>
+        <button type="button" onclick="MyFunction16()">Iniciar</button>
+        <input type="text" id="marca" placeholder="Marca"/>
+        <input type="text" id="modelo" placeholder="Modelo"/>
+
+        <h2>Ejercicio 17</h2>
+        <h3>Pedir mes y año y decir cuantos dias tiene</h3>
+        <button type="button" onclick="MyFunction17()" onclick="Bisiesto()">Iniciar</button>
+        <input type="number" id="mes" placeholder="Mes"/>
+        <input type="number" id="year17" placeholder="Año"/>
+
+        <h2>Ejercicio 18</h2>
+        <h3>Pedir sexo edad y altura y devolver peso ideal recomendado</h3>
+        <button type="button" onclick="MyFunction18()" onclick="Bisiesto()">Iniciar</button>
+        <input type="text" id="sexo" placeholder="Hombre o Mujer">
+        <input type="number" id="altura" placeholder="Altura"/>
+        <input type="number" id="edad" placeholder="Edad"/>
+        
+        <h2>Ejercicio 19</h2>
+        <p>Realizar un programa que simule un Juego de dados. El usuario empieza con 50€ para
+            apostar. El usuario indica a qué número apostar entre el 1 y el 6. Se hace una asignación al
+            azar entre 1 y 6. Si el usuario acierta, gana el doble de lo apostado y si no acierta, pierde lo
+            apostado. El juego acaba cuando el usuario llega a 0€ (pierde) o llega a 200€ (gana)</p>
+        <button type="button" onclick="MyFunction19()">Iniciar</button>
+
+        <h2>Ejercicio 20</h2>
+        <p>Calcular el precio de un producto introduciendo la base imponible (BI) y seleccionando el tipo
+            de iva que se le aplica (normal:21%, reducido:10%) e introduciendo el peso para calcular los
+            gastos de envío (Peso >  1Kg: 3€, Peso >  3kg:5€ y Peso>=3Kg 10€)</p>
+            <input type="number" id="base" placeholder="Base"/>
+            <input type="text" id="iva" placeholder="IVA">
+            <input type="number" id="gastosenvio" placeholder="GastosEnvio"/>
+            <input type="text" id="peso" placeholder="Peso">
+
+        <button type="button" onclick="MyFunction20()">Iniciar</button>    
+
+        
+
+    </fieldset> 
+    </form>
+</body>
+</html> 
