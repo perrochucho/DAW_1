@@ -1,0 +1,14 @@
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\bin\Debug\netcoreapp3.1\Registros.exe
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\bin\Debug\netcoreapp3.1\Registros.deps.json
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\bin\Debug\netcoreapp3.1\Registros.runtimeconfig.json
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\bin\Debug\netcoreapp3.1\Registros.runtimeconfig.dev.json
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\bin\Debug\netcoreapp3.1\Registros.dll
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\bin\Debug\netcoreapp3.1\Registros.pdb
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\obj\Debug\netcoreapp3.1\Registros.csproj.AssemblyReference.cache
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\obj\Debug\netcoreapp3.1\Registros.GeneratedMSBuildEditorConfig.editorconfig
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\obj\Debug\netcoreapp3.1\Registros.AssemblyInfoInputs.cache
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\obj\Debug\netcoreapp3.1\Registros.AssemblyInfo.cs
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\obj\Debug\netcoreapp3.1\Registros.csproj.CoreCompileInputs.cache
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\obj\Debug\netcoreapp3.1\Registros.dll
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\obj\Debug\netcoreapp3.1\Registros.pdb
+I:\Cuaderno\Programación\De Arrays en Adelante\5. ArchivosYFicheros\Registros\Registros\Registros\obj\Debug\netcoreapp3.1\Registros.genruntimeconfig.cache
